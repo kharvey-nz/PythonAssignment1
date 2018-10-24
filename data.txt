@@ -1,0 +1,11 @@
+Walmart,Retail,482,-0.7,2200000,Arkansas,31-10-1969
+CNP Corp,Oil and gas,428,-1.1,636532,Beijing,5-11-1999
+Saudi Aramco,Oil and gas,338,6.2,60000,Dhahran,29-5-1933
+State Grid,Electric utility,333,8.9,1564000,Beijing,29-12-2002
+Samsung,Conglomerate,305,-9.2,489000,Suwon,1-3-1938
+Royal Dutch Shell,Oil and gas,273,-7.3,94000,Hague,1-2-1907
+ExxonMobil,Oil and gas,268,-7.2,75300,Irving,30-11-1999
+Volkswagen,Automotive,245,2.8,572800,Wolfsburg,28-5-1937
+Apple,Consumer electronics,234,28,115000,California,1-4-1976
+Toyota,Automotive,227,6,344109,Toyota,28-8-1937
+BP,Oil and gas,223,-37.9,83900,London,1-5-1908
